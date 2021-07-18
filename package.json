@@ -1,6 +1,6 @@
 {
   "name": "bahubali-characters",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Get random Bahubali Characters names",
   "main": "dist/index.js",
   "scripts": {
