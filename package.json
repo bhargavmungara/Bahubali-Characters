@@ -1,7 +1,7 @@
 {
   "name": "bahubali-characters",
   "version": "0.0.0",
-  "description": "Get random Bahubali C haracter names",
+  "description": "Get random Bahubali Characters names",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
