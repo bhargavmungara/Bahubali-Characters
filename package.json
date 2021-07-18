@@ -35,6 +35,7 @@
   },
   "homepage": "https://github.com/bhargavmungara/Bahubali-Characters#readme",
   "dependencies": {
+    "semantic-release-cli": "^5.4.3",
     "unique-random-array": "1.0.0"
   },
   "devDependencies": {
@@ -56,9 +57,9 @@
     "npm-run-all": "2.3.0",
     "nyc": "^7.1.0",
     "rimraf": "^2.5.4",
+    "semantic-release": "^17.4.4",
     "validate-commit-msg": "^2.14.0",
-    "webpack": "1.13.1",
-    "semantic-release": "^17.4.4"
+    "webpack": "1.13.1"
   },
   "nyc": {
     "all": true,
