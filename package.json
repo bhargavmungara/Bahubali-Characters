@@ -1,7 +1,7 @@
 {
   "name": "Bahubali-Names",
   "version": "1.0.0",
-  "description": "Get random Bahubali character names",
+  "description": "Get random Bahubali C haracter names",
   "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",
