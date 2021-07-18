@@ -1,6 +1,6 @@
 {
   "name": "bahubali-characters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get random Bahubali C haracter names",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "build:umd": "webpack --output-filename index.umd.js",
     "build:umd.min": "webpack --output-filename index.umd.min.js -p",
     "test": "cross-env NODE_ENV=test nyc mocha",
-    "watch:test": "mocha --watch",  
+    "watch:test": "mocha --watch",
     "report-coverage": "cat ./coverage/lcov.info | codecov",
     "lint": "eslint src",
     "validate": "npm-run-all --parallel test lint build"
