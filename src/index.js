@@ -6,5 +6,5 @@ const mainExport = {
   random: uniqueRandomArray(bahubaliNames),
 }
 
-export default mainExport
-module.exports = mainExport // for CommonJS compatibility
+export default mainExport  //export default can only be used once 
+module.exports = mainExport // For CommonJS Compatibility
